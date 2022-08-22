@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I am currently exploring ML/AI and Cloud Computing on Azure.
 
-- :zap: In my free time, I live to catch up on global and geo-politics.
+- :zap: In my free time, I like to catch up on global and geo-politics.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/OMOLOJAKAZEEM-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omolojakazeem/) or [![GMAIL Badge](https://img.shields.io/badge/-OMOLOJAKAZEEM-gray?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:omolojakazeem@gmail.com)
 
