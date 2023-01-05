@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos :nigeria: Nigeria.
-- :telescope: I’m currently work as a Web application developer and contributing to frontend and backend.
+- :telescope: I currently work as a Web application developer and contributing to frontend and backend.
 
 - :seedling: I am currently exploring ML/AI and Cloud Computing on Azure.
 
